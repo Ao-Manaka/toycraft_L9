@@ -1,0 +1,51 @@
+// This is an example set of conditions that you can use and modify and put
+// into (for example) config/lostcities/userassets.json
+
+[
+  {
+    "type": "condition",
+    "name": "easymobs",
+    "values": [
+      {
+        "factor": 1,
+        "value": "minecraft:zombie"
+      },
+      {
+        "factor": 1,
+        "value": "minecraft:skeleton"
+      },
+      {
+        "factor": 1,
+        "value": "minecraft:spider"
+      }
+    ]
+  },
+  {
+    "type": "condition",
+    "name": "hardmobs",
+    "values": [
+      {
+        "factor": 1,
+        "value": "minecraft:blaze"
+      },
+      {
+        "factor": 1,
+        "value": "minecraft:witch"
+      }
+    ]
+  },
+  {
+    "type": "condition",
+    "name": "chestloot",
+    "values": [
+      {
+        "factor": 10,
+        "value": "lostcities:chests/lostcitychest"
+      },
+      {
+        "factor": 10,
+        "value": "lostcities:chests/raildungeonchest"
+      }
+    ]
+  }
+]
