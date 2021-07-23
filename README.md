@@ -6,10 +6,15 @@
 ```#玩具国Minecraft建设省 #九周目 #玩具国生存 #九周目生存```
 
 玩具国分流群：https://t.me/toycraft_pre
+
 完整指南：https://github.com/Ao-Manaka/toycraft_L9/wiki/%E7%8E%A9%E5%85%B7%E5%9B%BD%E4%B9%9D%E5%91%A8%E7%9B%AE%E7%94%9F%E5%AD%98%E6%8C%87%E5%8D%97
+
 太长不看版：https://github.com/Ao-Manaka/toycraft_L9 ~~（如蜜传如蜜）~~
+
 客户端（完整版）：（加群获取）
+
 客户端（模组和config）：https://github.com/Ao-Manaka/toycraft_L9
+
 给某些勇士的安装指南：https://github.com/Ao-Manaka/toycraft_L9/wiki
 
 ### ~~0. 移除了creeper可能引发接龙的bug(x)，移除了可能出现Herobrine的要素（x）。~~
